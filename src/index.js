@@ -1,5 +1,4 @@
 // Simple implementation of a RESTful API for managing users
-// Homework number 4
 const express = require('express');
 const app = express();
 const port = 3000;
