@@ -1,4 +1,5 @@
 // Simple implementation of a RESTful API for managing users
+// Let's add a comment to trigger tests
 const express = require('express');
 const app = express();
 const port = 3000;
